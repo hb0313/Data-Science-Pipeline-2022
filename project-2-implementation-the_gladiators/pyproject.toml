@@ -7,7 +7,7 @@ authors = ["Harshad Bhandwaldar"]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
 fastapi = "^0.85.1"
-uvicorn = "^0.18.2"
+uvicorn = "^0.20.0"
 pydantic = "^1.9.1"
 MyApplication = "^0.1.0"
 isort = "^5.11.4"
