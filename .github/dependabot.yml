@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "black" # See documentation for possible values
+  - package-ecosystem: "pip" # See documentation for possible values
     directory: "/project-3-implementation-the_gladiators/" # Location of package manifests
     schedule:
       interval: "weekly"
