@@ -6,6 +6,14 @@
 version: 2
 updates:
   - package-ecosystem: "pip" # See documentation for possible values
+    directory: "/project-1-implementation-the_gladiators/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "pip" # See documentation for possible values
+    directory: "/project-2-implementation-the_gladiators/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "pip" # See documentation for possible values
     directory: "/project-3-implementation-the_gladiators/" # Location of package manifests
     schedule:
       interval: "weekly"
