@@ -2,6 +2,9 @@
 
 [![deployement](https://img.shields.io/badge/deployment-passing-green)]() [![linter](https://img.shields.io/badge/linter-passing-blue)]() [![checks](https://img.shields.io/badge/checks-pending-yellow)]() [![test](https://img.shields.io/badge/test%20days-120-lightgrey)]() [![docker](https://img.shields.io/badge/docker%20build-pending-orange)]()
 
+![linter](https://github.com/hb0313/Data-Science-Pipeline-2022/actions/workflows/super-linter.yml/badge.svg)
+
+
 The course's concentration is on using data science techniques to study substantial social media. Predictive, real-time analytics, exploratory analysis, measurement techniques, statistical modeling, and large-scale data collection, cleaning, and management are examples of the topics addressed.
 
 
