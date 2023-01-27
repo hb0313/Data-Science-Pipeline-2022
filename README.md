@@ -21,6 +21,6 @@ The course's concentration is on using data science techniques to study substant
   <img src="https://contrib.rocks/image?repo=hb0313/Data-Science-Pipeline-2022" />
 </a>
 
-# License
+### License
 
 MIT
