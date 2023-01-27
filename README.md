@@ -2,6 +2,10 @@
 
 ![linter](https://github.com/hb0313/Data-Science-Pipeline-2022/actions/workflows/super-linter.yml/badge.svg) ![security](https://github.com/hb0313/Data-Science-Pipeline-2022/actions/workflows/codeql.yml/badge.svg) ![labeler](https://github.com/hb0313/Data-Science-Pipeline-2022/actions/workflows/label.yml/badge.svg) [![docker](https://img.shields.io/badge/docker%20build-pending-orange?logo=docker)]()
 
+
+[![BULOGO](https://github.com/hb0313/Data-Science-Pipeline-2022/blob/main/project-1-implementation-the_gladiators/.img/bulogo.png)]()
+
+
 The course's concentration is on using data science techniques to study substantial social media. Predictive, real-time analytics, exploratory analysis, measurement techniques, statistical modeling, and large-scale data collection, cleaning, and management are examples of the topics addressed.
 
 
