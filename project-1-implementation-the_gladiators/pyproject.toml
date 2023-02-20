@@ -16,7 +16,7 @@ flake8 = "^4.0.1"
 tweepy = "^4.10.1"
 pandas = "^1.5.1"
 mysql-connector-python = "^8.0.32"
-matplotlib = "^3.6.1"
+matplotlib = "^3.7.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.1.0"
